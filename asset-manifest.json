@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KappRoss/myCV/static/css/main.4bfe3bba.chunk.css",
-    "main.js": "/KappRoss/myCV/static/js/main.06a16692.chunk.js",
-    "main.js.map": "/KappRoss/myCV/static/js/main.06a16692.chunk.js.map",
+    "main.js": "/KappRoss/myCV/static/js/main.4c7abf81.chunk.js",
+    "main.js.map": "/KappRoss/myCV/static/js/main.4c7abf81.chunk.js.map",
     "runtime-main.js": "/KappRoss/myCV/static/js/runtime-main.704d5ef7.js",
     "runtime-main.js.map": "/KappRoss/myCV/static/js/runtime-main.704d5ef7.js.map",
     "static/js/2.34ecf178.chunk.js": "/KappRoss/myCV/static/js/2.34ecf178.chunk.js",
@@ -12,13 +12,12 @@
     "index.html": "/KappRoss/myCV/index.html",
     "static/css/main.4bfe3bba.chunk.css.map": "/KappRoss/myCV/static/css/main.4bfe3bba.chunk.css.map",
     "static/js/2.34ecf178.chunk.js.LICENSE.txt": "/KappRoss/myCV/static/js/2.34ecf178.chunk.js.LICENSE.txt",
-    "static/media/Kaplychnyi_Rostyslav_CV.62863a1d.pdf": "/KappRoss/myCV/static/media/Kaplychnyi_Rostyslav_CV.62863a1d.pdf",
     "static/media/ava.4789bff8.jpg": "/KappRoss/myCV/static/media/ava.4789bff8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.704d5ef7.js",
     "static/js/2.34ecf178.chunk.js",
     "static/css/main.4bfe3bba.chunk.css",
-    "static/js/main.06a16692.chunk.js"
+    "static/js/main.4c7abf81.chunk.js"
   ]
 }
