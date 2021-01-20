@@ -1,7 +1,6 @@
 import React from 'react'
 import s from './mainMenu.module.css'
 import { NavLink} from "react-router-dom";
-import resume from  './../../pdf/Kaplychnyi_Rostyslav_CV.pdf'
 
 const MainMenu = () => {
   return(
@@ -44,7 +43,7 @@ const MainMenu = () => {
           </div>
         </div>
         <div className={s.Download}>
-          <a href={resume} download>Download my CV &nbsp;<i className="fas fa-file-download"></i></a>
+          <a target="_blank" href='https://drive.google.com/file/d/1EEIxBPqdGWIqHtmlpn2zNXP2DgmovHrD/view'>Download my CV &nbsp;<i className="fas fa-file-download"></i></a>
         </div>
       </div>
   )
