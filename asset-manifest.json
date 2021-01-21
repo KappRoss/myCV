@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KappRoss/myCV/static/css/main.4bfe3bba.chunk.css",
-    "main.js": "/KappRoss/myCV/static/js/main.5ee84249.chunk.js",
-    "main.js.map": "/KappRoss/myCV/static/js/main.5ee84249.chunk.js.map",
+    "main.js": "/KappRoss/myCV/static/js/main.5f584ee8.chunk.js",
+    "main.js.map": "/KappRoss/myCV/static/js/main.5f584ee8.chunk.js.map",
     "runtime-main.js": "/KappRoss/myCV/static/js/runtime-main.704d5ef7.js",
     "runtime-main.js.map": "/KappRoss/myCV/static/js/runtime-main.704d5ef7.js.map",
     "static/js/2.3200d42a.chunk.js": "/KappRoss/myCV/static/js/2.3200d42a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.704d5ef7.js",
     "static/js/2.3200d42a.chunk.js",
     "static/css/main.4bfe3bba.chunk.css",
-    "static/js/main.5ee84249.chunk.js"
+    "static/js/main.5f584ee8.chunk.js"
   ]
 }
