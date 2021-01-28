@@ -8,7 +8,7 @@ import { Route } from "react-router"
 const Content = () => {
   return(
     <div className={s.Content}>
-      <Route path='/AboutMe' component={AboutMe}/>
+      <Route exact path='/' component={AboutMe}/>
       <Route path='/MyProjects' component={MyProjects}/>
       <Route path='/MyContacts' component={MyContacts}/>
     </div>

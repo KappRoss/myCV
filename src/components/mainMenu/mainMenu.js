@@ -8,7 +8,7 @@ const MainMenu = () => {
         <div className={s.NavMenu}>
           <div className={s.Item}>
             <NavLink
-              to="/AboutMe"
+              to="/"
               activeClassName={s.ActiveRoute}
             >About me</NavLink>
           </div>

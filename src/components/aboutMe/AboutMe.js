@@ -28,7 +28,7 @@ const AboutMe = () => {
         <span>2. Freelance and Pet-projects</span>
         <p>
           Front-end developer, July 2020 – now <br/>
-          Responsibilities : develop web site on React/Redux
+          Responsibilities: develop web site on React/Redux
         </p>
       </div>
 
@@ -36,7 +36,7 @@ const AboutMe = () => {
         <p>
           <strong>Education.</strong>
           <p>
-            2009-2012 National Technical University of Ukraine 'Kyiv Polytechnic Institute', Bachelor of Material Science.
+            2016-2020 State University of Telecommunications (Kiev), Bachelor of Computer
           </p>
         </p>
       </div>
@@ -56,6 +56,5 @@ const AboutMe = () => {
     </div>
   );
 }
-
 
 export  default AboutMe
