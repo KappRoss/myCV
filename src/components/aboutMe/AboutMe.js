@@ -20,14 +20,14 @@ const AboutMe = () => {
 
       <div className={s.WorkExperience}>
         <strong>Work experience.</strong> <br/>
-        <span>1. Outsourcing projects</span>
-        <p>
-          Front-end developer, June – July 2020 <br/>
-          Responsibilities: develop web site on React.
-        </p>
-        <span>2. Freelance and Pet-projects</span>
+        <span>1. Freelance and Pet-projects</span>
         <p>
           Front-end developer, July 2020 – now <br/>
+          Responsibilities: develop web site on React.
+        </p>
+        <span>2. Outsourcing projects</span>
+        <p>
+          Front-end developer, June – July 2020 <br/>
           Responsibilities: develop web site on React/Redux
         </p>
       </div>

@@ -10,7 +10,7 @@
 *{
     box-sizing: border-box;
 }
-@media (max-width: 480px) {
+@media (max-width: 769px) {
     .App{
         grid-template-areas:
         ' MainPhoto '
@@ -20,5 +20,21 @@
         grid-template-columns: 1fr;
         justify-content: center;
         align-items: center;
+
+    }
+    .Main{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1;
+    }
+    .Content{
+        position: absolute;
+        top: 610px;
+        left: 0;
+        width: 100%;
+        z-index: 2;
+        background: white;
     }
 }

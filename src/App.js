@@ -8,9 +8,13 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <MainPhoto />
-        <MainMenu />
-        <Content />
+        <div className="Main">
+          <MainPhoto />
+          <MainMenu />
+        </div>
+        <div className="Content">
+          <Content />
+        </div>
       </div>
     </Router>
   );

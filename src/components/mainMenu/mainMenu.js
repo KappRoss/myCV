@@ -8,7 +8,7 @@ const MainMenu = () => {
         <div className={s.NavMenu}>
           <div className={s.Item}>
             <NavLink
-              to="/"
+              to="/AboutMe"
               activeClassName={s.ActiveRoute}
             >About me</NavLink>
           </div>
@@ -49,4 +49,4 @@ const MainMenu = () => {
   )
 }
 
-export  default MainMenu
+export default MainMenu

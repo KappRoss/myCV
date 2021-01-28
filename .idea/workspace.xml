@@ -4,14 +4,14 @@
     <list default="true" id="287f6ff8-8813-4ce6-996a-2dc91380d0b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/aboutMe/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/aboutMe/AboutMe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/content/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/content/content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/content.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/mainMenu/mainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainMenu/mainMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/mainPhoto/mainPhoto.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainPhoto/mainPhoto.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/myContacts/myContacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myContacts/myContacts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611170967817</updated>
       <workItem from="1611170968938" duration="16093000" />
-      <workItem from="1611852880891" duration="416000" />
+      <workItem from="1611852880891" duration="6146000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;update&quot;&#10;&#10;This reverts commit a0867ec8">
       <created>1611171490576</created>

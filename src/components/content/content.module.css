@@ -6,4 +6,11 @@
     padding: 30px;
     min-height: 100vh;
     height: fit-content;
+
+}
+
+@media (max-width: 769px ) {
+    .Content{
+        padding: 15px 30px 30px 30px;
+    }
 }
