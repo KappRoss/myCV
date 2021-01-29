@@ -7,11 +7,10 @@ const MyProjects = () => {
       <h2>My pet-projects.</h2>
       <div className={s.ProjectsItem}>
         <p><b>"Quiz"</b>. SPA used ReactJS.</p>
-        {/*<a href="https://kappross.github.io/react-quiz/" target='_blank'><img src={quiz} alt=""/></a>*/}
       </div>
       <iframe src="https://kappross.github.io/react-quiz/"  width="100%" height='600px'  frameborder="5"></iframe>
       <p><b>"Abs Tech"</b> (business card website) SPA used ReactJS.</p>
-      <iframe src="https://kappross.github.io/" frameborder="0" width="100%" height='600px'></iframe>
+      <iframe src="https://kappross.github.io/petProject/" frameborder="0" width="100%" height='600px'></iframe>
     </div>
   )
 }

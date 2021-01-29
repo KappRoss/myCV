@@ -9,3 +9,9 @@
     width: 100%;
     margin: 0 auto;
 }
+
+@media (max-width: 769px) {
+    .Projects{
+        margin: -25px;
+    }
+}

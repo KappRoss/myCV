@@ -2,11 +2,11 @@ import './App.css';
 import MainMenu from "./components/mainMenu/mainMenu";
 import MainPhoto from "./components/mainPhoto/mainPhoto";
 import Content from "./components/content/content";
-import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom'
 
 function App() {
   return (
-    <Router>
+    <Router basename={'/'}>
       <div className="App">
         <div className="Main">
           <MainPhoto />
