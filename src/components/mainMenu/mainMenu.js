@@ -43,7 +43,7 @@ const MainMenu = () => {
           </div>
         </div>
         <div className={s.Download}>
-          <a target="_blank" href='https://drive.google.com/file/d/1EEIxBPqdGWIqHtmlpn2zNXP2DgmovHrD/view'>Download my CV &nbsp;<i className="fas fa-file-download"></i></a>
+          <a target="_blank" href='https://drive.google.com/file/d/1aKmDgNV5K_KdZ8ew6dXNNuTmYrV2_zsp/view?usp=sharing'>Download my CV &nbsp;<i className="fas fa-file-download"></i></a>
         </div>
       </div>
   )
