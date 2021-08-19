@@ -1,1 +1,1 @@
-https://KappRoss.github.io/myCV
+https://kappross.github.io/myCV/#/
