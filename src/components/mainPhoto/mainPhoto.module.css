@@ -1,0 +1,17 @@
+.MainPhoto{
+    grid-area: MainPhoto;
+    max-width: 320px;
+    margin: 0 auto;
+}
+.Avatar{
+    max-width: 260px;
+    margin: 30px 30px 10px 30px;
+    box-shadow: 0px 0px 20px 1px black;
+}
+@media (max-width: 769px) {
+    .MainPhoto{
+        display: flex;
+        justify-content: center;
+        max-width: 100%;
+    }
+}

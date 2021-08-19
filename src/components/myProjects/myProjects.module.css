@@ -1,0 +1,17 @@
+.Projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.ProjectsItem a img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 769px) {
+    .Projects{
+        margin: -25px;
+    }
+}
